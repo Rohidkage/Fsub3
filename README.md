@@ -1,11 +1,11 @@
-# File-Karman
+# Bokep-Vanostra
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 ##
 
-**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@obrolansuar](https://www.telegram.dog/obrolansuar)**
+**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@ChannelVanos](https://t.me/storevanos)**
 
 ### Features
 - Sepenuhnya dapat dicustom.
