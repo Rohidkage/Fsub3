@@ -172,7 +172,7 @@ async def send_text(client: Bot, message: Message):
         unsuccessful = 0
 
         pls_wait = await message.reply(
-            "<code>Broadcasting Message Tunggu Sebentar...</code>"
+            "<code>Sabar Ngetod Kata kata Alay Sedang gw sebar...</code>"
         )
         for row in query:
             chat_id = int(row[0])
